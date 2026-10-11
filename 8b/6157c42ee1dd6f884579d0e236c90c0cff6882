@@ -1,0 +1,21 @@
+ui/package.json
+  s_fafccf6d71e053::t_fd656b0ee6ac3d 75
+ui/package-lock.json
+  s_fafccf6d71e053::t_51be669524b100 48,22508-22510
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "8b6157c42ee1dd6f884579d0e236c90c0cff6882",
+  "prompts": {},
+  "sessions": {
+    "s_fafccf6d71e053": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9cb6a294-2ff0-4088-97f3-9e512bfe11bb",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Itz-Agasta <rupamgolui69@gmail.com>"
+    }
+  }
+}
