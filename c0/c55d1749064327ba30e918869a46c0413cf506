@@ -1,0 +1,30 @@
+ui/src/components/dependencies/composables/useDependencies.spec.ts
+  s_fafccf6d71e053::t_5e7e581629e9a1 389-390,393-404
+  s_fafccf6d71e053::t_6181dfd25c2b78 405
+ui/package.json
+  s_fafccf6d71e053::t_5e7e581629e9a1 75
+ui/src/components/dependencies/composables/useDependencies.ts
+  s_fafccf6d71e053::t_5e7e581629e9a1 116-117,122-124,443-447,453-458,485,627,630-631
+ui/src/components/dependencies/Dependencies.vue
+  s_fafccf6d71e053::t_5e7e581629e9a1 33,216
+ui/src/components/dependencies/Dependencies.spec.ts
+  s_fafccf6d71e053::t_5e7e581629e9a1 37
+ui/package-lock.json
+  s_fafccf6d71e053::t_97c4815353b128 48,22508-22510
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "c0c55d1749064327ba30e918869a46c0413cf506",
+  "prompts": {},
+  "sessions": {
+    "s_fafccf6d71e053": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9cb6a294-2ff0-4088-97f3-9e512bfe11bb",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Itz-Agasta <rupamgolui69@gmail.com>"
+    }
+  }
+}
