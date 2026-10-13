@@ -1,0 +1,26 @@
+ui/src/components/dependencies/composables/useDependencies.ts
+  s_fafccf6d71e053::t_5e7e581629e9a1 116-117,122-124,443-447,453-454,481,623,626-627
+ui/src/components/dependencies/Dependencies.spec.ts
+  s_fafccf6d71e053::t_5e7e581629e9a1 37
+ui/src/components/dependencies/Dependencies.vue
+  s_fafccf6d71e053::t_5e7e581629e9a1 33,216
+ui/src/components/dependencies/composables/useDependencies.spec.ts
+  s_fafccf6d71e053::t_5e7e581629e9a1 389-390,393-402
+  s_fafccf6d71e053::t_077eaafe85ba01 403
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "7d09faa45a2f308fd7f7bfc2d83e4260d73492a2",
+  "prompts": {},
+  "sessions": {
+    "s_fafccf6d71e053": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9cb6a294-2ff0-4088-97f3-9e512bfe11bb",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Itz-Agasta <rupamgolui69@gmail.com>"
+    }
+  }
+}
